@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">חידת החיילים</string>
+	<string name="include_diagonals">כולל אלכסונים</string>
+	<string name="order_with_diag">יש לסדר את הפריטים כך שבכל שורה ועמודה ואלכסון - לא יהיה את אותו הצורה או אותו הצבע</string>
+	<string name="disinclude_diagonals">ללא אלכסונים</string>
+	<string name="order_without_diag">יש לסדר את הפריטים/חיילים כך שבכל שורה ועמודה - לא יהיה את אותו הצורה או אותו הצבע</string>
+	<string name="star_gold">כוכב זהב:\n על זה שהצלחת לסדר את הפריטים בהצלחה בתנאים של שורה ועמודה ואלכסון.</string>
+	<string name="star_slver">כוכב נחושת:\n על זה שהצלחת לסדר את הפריטים בהצלחה בתנאים של שורה ועמודה.</string>
+	<string name="well_done">כל הכבוד! \nהצלחת לפתור את המשחק..</string>
+	<string name="silent_win_sound">השתק מוזיקת ניצחון</string>
+	<string name="reset_win">איפוס הנצחונות</string>
+	<string name="reset_board">איפוס הלוח</string>
+	<string name="play_again">שחק מחדש..</string>
+	<string name="play_again_diff">שחק מחדש.. נסה לסדר גם שלא באלכסונים</string>
+	<string name="do_reset">אתה בטוח שאתה רוצה לאפס את הלוח? </string>
+	<string name="yes_sure">כן, אני רוצה! </string>
+	<string name="no_sure">לא! נלחץ לי בטעות</string>
+	<string name="kayback_again">לחץ על הכפתור BACK שוב כדי לצאת.</string>
+	<string name="silent">השתק</string>
+	<string name="sound">צליל</string>
+	<string name="about">לשימוש אישי לצורך הפרוייקט לפיתוח חשיבה מתמטית.</string>
+	<string name="title_about">אודות</string>
+	<string name="do_reset_win">האם אתה בטוח שאתה רוצה לאפס את הכוכבים שזכית בהם?</string>
+	<string name="yes_win">כן! אני רוצה לאתגר את עצמי לנסות שוב. </string>
+	<string name="no_win">לא! נראה לך?! עד שהשגתי אותם.</string>
+	<string name="chit">הפעלת צ\'יט לניצחון, לחץ על אחד הפריטים לסיום.</string>
+	<string name="title">מפגן החיילים</string>
+</resources>
